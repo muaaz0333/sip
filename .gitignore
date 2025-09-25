@@ -1,7 +1,11 @@
 .DS_Store
 .idea/
 bin/
+temp_auto_push.bat
 cmd/server/server
 
 test/config.yaml
 test/*/*.mkv
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
